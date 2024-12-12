@@ -1,4 +1,4 @@
-# Projeto Jogo da Memória Emojis
+# Projeto Spider Man Carrossel
 
 Programa desenvolvido com o objetivo de fazerum carrossel inspirado no universo Spider Man
 
